@@ -4,7 +4,7 @@ XXL version of the classic WS2812B/NeoPixel with same functionality.
 
 ## Assembly
 
-iBOM for driver assembly can be found in the repo.
+iBOM for driver assembly can be found here: https://muoshy.github.io/NeoPiXXL/ 
 
 ### BOM:
  - Driver:
