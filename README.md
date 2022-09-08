@@ -4,6 +4,8 @@ XXL version of the classic WS2812B/NeoPixel with same functionality.
 
 ## Assembly
 
+iBOM for driver assembly can be found in the repo.
+
 ### BOM:
  - Driver:
     - PCB
